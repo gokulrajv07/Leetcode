@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gokulrajv07/Leetcode/tree/master/0258-add-digits) |
+| [3024-type-of-triangle](https://github.com/gokulrajv07/Leetcode/tree/master/3024-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gokulrajv07/Leetcode/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/gokulrajv07/Leetcode/tree/master/3024-type-of-triangle) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/gokulrajv07/Leetcode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
