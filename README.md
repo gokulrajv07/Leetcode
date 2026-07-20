@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gokulrajv07/Leetcode/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/gokulrajv07/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gokulrajv07/Leetcode/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/gokulrajv07/Leetcode/tree/master/0179-largest-number) |
 | [0896-monotonic-array](https://github.com/gokulrajv07/Leetcode/tree/master/0896-monotonic-array) |
+| [1260-shift-2d-grid](https://github.com/gokulrajv07/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokulrajv07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3024-type-of-triangle](https://github.com/gokulrajv07/Leetcode/tree/master/3024-type-of-triangle) |
 ## Sorting
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/gokulrajv07/Leetcode/tree/master/0179-largest-number) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/gokulrajv07/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
