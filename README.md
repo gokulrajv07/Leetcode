@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/gokulrajv07/Leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gokulrajv07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/gokulrajv07/Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/gokulrajv07/Leetcode/tree/master/0179-largest-number) |
 | [0896-monotonic-array](https://github.com/gokulrajv07/Leetcode/tree/master/0896-monotonic-array) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/gokulrajv07/Leetcode/tree/master/1260-shift-2d-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gokulrajv07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
