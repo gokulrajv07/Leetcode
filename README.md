@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/gokulrajv07/Leetcode/tree/master/0179-largest-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/gokulrajv07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gokulrajv07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokulrajv07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/gokulrajv07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
