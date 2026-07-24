@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/gokulrajv07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/gokulrajv07/Leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/gokulrajv07/Leetcode/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokulrajv07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/gokulrajv07/Leetcode/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
 | ------- |
