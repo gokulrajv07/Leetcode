@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/gokulrajv07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/gokulrajv07/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/gokulrajv07/Leetcode/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gokulrajv07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokulrajv07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/gokulrajv07/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/gokulrajv07/Leetcode/tree/master/3024-type-of-triangle) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokulrajv07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/gokulrajv07/Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/gokulrajv07/Leetcode/tree/master/0179-largest-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gokulrajv07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/gokulrajv07/Leetcode/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/gokulrajv07/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokulrajv07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/gokulrajv07/Leetcode/tree/master/0179-largest-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gokulrajv07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3024-type-of-triangle](https://github.com/gokulrajv07/Leetcode/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/gokulrajv07/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
