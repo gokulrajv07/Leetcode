@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gokulrajv07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokulrajv07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/gokulrajv07/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gokulrajv07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/gokulrajv07/Leetcode/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/gokulrajv07/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gokulrajv07/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gokulrajv07/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gokulrajv07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gokulrajv07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gokulrajv07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Queue
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/gokulrajv07/Leetcode/tree/master/0179-largest-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gokulrajv07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
