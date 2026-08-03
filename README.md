@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/gokulrajv07/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gokulrajv07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/gokulrajv07/Leetcode/tree/master/3024-type-of-triangle) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/gokulrajv07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gokulrajv07/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gokulrajv07/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/gokulrajv07/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gokulrajv07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokulrajv07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3024-type-of-triangle](https://github.com/gokulrajv07/Leetcode/tree/master/3024-type-of-triangle) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/gokulrajv07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/gokulrajv07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/gokulrajv07/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/gokulrajv07/Leetcode/tree/master/0338-counting-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/gokulrajv07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
 | ------- |
