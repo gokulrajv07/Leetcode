@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/gokulrajv07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/gokulrajv07/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/gokulrajv07/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/gokulrajv07/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokulrajv07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gokulrajv07/Leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gokulrajv07/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gokulrajv07/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/gokulrajv07/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/gokulrajv07/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/gokulrajv07/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokulrajv07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gokulrajv07/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/gokulrajv07/Leetcode/tree/master/0896-monotonic-array) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gokulrajv07/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/gokulrajv07/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/gokulrajv07/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/gokulrajv07/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokulrajv07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gokulrajv07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokulrajv07/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/gokulrajv07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/gokulrajv07/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/gokulrajv07/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/gokulrajv07/Leetcode/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gokulrajv07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gokulrajv07/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gokulrajv07/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/gokulrajv07/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/gokulrajv07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokulrajv07/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/gokulrajv07/Leetcode/tree/master/3731-find-missing-elements) |
@@ -132,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gokulrajv07/Leetcode/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gokulrajv07/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
