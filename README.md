@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/gokulrajv07/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gokulrajv07/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/gokulrajv07/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3894-traffic-signal-color](https://github.com/gokulrajv07/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gokulrajv07/Leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/gokulrajv07/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3894-traffic-signal-color](https://github.com/gokulrajv07/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/gokulrajv07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gokulrajv07/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokulrajv07/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3894-traffic-signal-color](https://github.com/gokulrajv07/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Queue
 |  |
 | ------- |
