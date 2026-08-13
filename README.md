@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gokulrajv07/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gokulrajv07/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/gokulrajv07/Leetcode/tree/master/0338-counting-bits) |
+| [2595-number-of-even-and-odd-bits](https://github.com/gokulrajv07/Leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gokulrajv07/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
