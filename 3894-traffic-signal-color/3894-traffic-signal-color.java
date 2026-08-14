@@ -1,6 +1,6 @@
 class Solution {
     public String trafficSignal(int timer) {
-        if(timer==0)
+      /*  if(timer==0)
             return "Green";
             
         else if(timer == 30)
@@ -11,6 +11,8 @@ class Solution {
             
         else
             return "Invalid";
+            */
+            return(timer==0 ?"Green":timer==30 ?"Orange":30<timer && timer<=90 ?"Red":"Invalid");
             
     }
 }
