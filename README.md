@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gokulrajv07/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/gokulrajv07/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gokulrajv07/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/gokulrajv07/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/gokulrajv07/Leetcode/tree/master/0066-plus-one) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/gokulrajv07/Leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/gokulrajv07/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/gokulrajv07/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/gokulrajv07/Leetcode/tree/master/0217-contains-duplicate) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/gokulrajv07/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gokulrajv07/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/gokulrajv07/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gokulrajv07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
