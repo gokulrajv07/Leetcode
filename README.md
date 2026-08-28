@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/gokulrajv07/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gokulrajv07/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/gokulrajv07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/gokulrajv07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/gokulrajv07/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/gokulrajv07/Leetcode/tree/master/0258-add-digits) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gokulrajv07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/gokulrajv07/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gokulrajv07/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gokulrajv07/Leetcode/tree/master/0268-missing-number) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gokulrajv07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gokulrajv07/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/gokulrajv07/Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/gokulrajv07/Leetcode/tree/master/0344-reverse-string) |
