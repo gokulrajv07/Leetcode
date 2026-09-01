@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gokulrajv07/Leetcode/tree/master/0455-assign-cookies) |
 | [0598-range-addition-ii](https://github.com/gokulrajv07/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokulrajv07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/gokulrajv07/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0877-stone-game](https://github.com/gokulrajv07/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/gokulrajv07/Leetcode/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/gokulrajv07/Leetcode/tree/master/1260-shift-2d-grid) |
