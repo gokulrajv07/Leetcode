@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gokulrajv07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/gokulrajv07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/gokulrajv07/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/gokulrajv07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/gokulrajv07/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/gokulrajv07/Leetcode/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/gokulrajv07/Leetcode/tree/master/0598-range-addition-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gokulrajv07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gokulrajv07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/gokulrajv07/Leetcode/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/gokulrajv07/Leetcode/tree/master/0877-stone-game) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/gokulrajv07/Leetcode/tree/master/3903-smallest-stable-index-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gokulrajv07/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
